@@ -33,7 +33,6 @@ Funkce aplikace:
 - z-a
 - rok vydání originálu (vzestupně, sestupně)
 
-___
 ## Knižní série
 - název
 - autor
@@ -53,7 +52,6 @@ ___
 - z-a
 - rok vydání originálu (vzestupně, sestupně) - podle první knihy ze série
 
-___
 ## Autor
 - jméno
 - životopis
@@ -75,7 +73,6 @@ ___
 - z-a
 - rok narození
 
-___
 ## Uživatel
 - email (musí být jedinečný)
 - uživatelské jméno
