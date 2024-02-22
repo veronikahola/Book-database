@@ -60,6 +60,7 @@ Funkce aplikace:
 - národnost
 - datum narození
 - datum úmrtí
+- hodnocení (podle hodnocení jeho knih)
 - žánry knih
 - tagy knih
 ### Vyhledávání podle
