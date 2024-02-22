@@ -58,8 +58,8 @@ Funkce aplikace:
 - knihy
 - knižní série
 - národnost
-- rok narození
-- rok úmrtí
+- datum narození
+- datum úmrtí
 - žánry knih
 - tagy knih
 ### Vyhledávání podle
